@@ -14,8 +14,8 @@ The app utilizes historical stock data and applies the Facebook Prophet library 
 ## Getting Started
 To use the StockSage , follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies by running pip install -r requirements.txt.
+1. Clone the repository to your local machine.\
+2. Install the required dependencies by running pip install -r requirements.txt.
 Launch the app by executing python app.py in your terminal or command prompt.
 Access the app through your web browser at http://localhost:5000.
 Enter the stock symbol and adjust the desired settings.
